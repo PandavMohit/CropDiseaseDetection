@@ -1,4 +1,3 @@
-Here’s a *ready-to-copy README.md* for your *Crop Disease Detection with Solution (Gemini 2.0 Flash)* project in the *same format as the Food Calorie Estimator README*.
 
 ---
 
@@ -56,37 +55,6 @@ Perfect for *class submissions* and *AI/ML agriculture projects*.
 
 ---
 
-### 📦 Installation & Setup
-
-1. *Clone the repository* or download the project files:
-
-bash
-git clone https://github.com/yourusername/Crop-Disease-Detection.git
-cd Crop-Disease-Detection
-
-
-2. *Install the required Python libraries:*
-
-bash
-pip install -r requirements.txt
-
-
-3. **Create a requirements.txt** file with:
-
-
-gradio
-pillow
-requests
-
-
-4. *Run the application:*
-
-bash
-python app.py
-
-
-5. *Open in browser:*
-   The Gradio app will provide a *local URL* and a *public link* for testing.
 
 ---
 
